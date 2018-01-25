@@ -25,14 +25,14 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
 
         * It will be followed up by the total quantity units purchased, the item along with your grand total.
 
-        ![bamazonCustomer](/screenshots/screenshot_72.png)
-        Format: ![Alt Text](url)
+    ![bamazonCustomer](/screenshots/screenshot_72.png)
+    Format: ![Alt Text](url)
 
 
         * If Bamazon does not have enought quantity in stock to fill your order it will prompt you regarding the lack of inventory and return you to the 'SHOP' or 'LEAVE' screen.
 
-        ![bamazonCustomer](/screenshots/screenshot_69.png)
-        Format: ![Alt Text](url)
+    ![bamazonCustomer](/screenshots/screenshot_69.png)
+    Format: ![Alt Text](url)
 
 
 * If you chose to 'LEAVE' you will be exiting out of the Bamazon Customer App.
