@@ -10,13 +10,13 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
         * SHOP
         * LEAVE
 
-        ![bamazonCustomer](/screenshots/Screenshot(65).png)
+        ![bamazonCustomer](/screenshots/screenshot_65.png)
         Format: ![Alt Text](url)
 
 
     * If you chose to 'SHOP' an item number, department, product and price will all be provided to you for each product available.
 
-        ![bamazonCustomer](/screenshots/Screenshot_67.png)
+        ![bamazonCustomer](/screenshots/screenshot_67.png)
         Format: ![Alt Text](url)
 
 
@@ -26,13 +26,13 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
 
         * It will be followed up by the total quantity units purchased, the item along with your grand total.
 
-        ![bamazonCustomer](/screenshots/Screenshot (72).png)
+        ![bamazonCustomer](/screenshots/screenshot_72.png)
         Format: ![Alt Text](url)
 
 
         * If Bamazon does not have enought quantity in stock to fill your order it will prompt you regarding the lack of inventory and return you to the 'SHOP' or 'LEAVE' screen.
 
-        ![bamazonCustomer](/screenshots/Screenshot (69).png)
+        ![bamazonCustomer](/screenshots/screenshot_69.png)
         Format: ![Alt Text](url)
 
 
@@ -43,14 +43,14 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
 
 * The app will start you off with a prompt asking you what you would like to manage... 
 
-        ![bamazonCustomer](/screenshots/Screenshot (74).png)
+        ![bamazonCustomer](/screenshots/screenshot_74.png)
         Format: ![Alt Text](url)
 
 
     * Products for Sale
         * this will display everything that Bamazon have in inventory. It will be broken down by item number, product name, department name and stock quantity.
 
-        ![bamazonCustomer](/screenshots/Screenshot (75).png)
+        ![bamazonCustomer](/screenshots/screenshot_75.png)
         Format: ![Alt Text](url)
 
 
@@ -60,14 +60,14 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
     * Add to Inventory
         * this will allow you to select any inventroy item and add the the stock quantity.
 
-        ![bamazonCustomer](/screenshots/Screenshot (78).png)
+        ![bamazonCustomer](/screenshots/screenshot_78.png)
         Format: ![Alt Text](url)
 
 
     * Add New Product
         * this will allow you to add a new product and specify what department it will be located in, the quantity that you will be ordering and the price you will be charging. It will then assign an item id for the new product. 
 
-        ![bamazonCustomer](/screenshots/Screenshot (84).png)
+        ![bamazonCustomer](/screenshots/screenshot_84.png)
         Format: ![Alt Text](url)
 
 
