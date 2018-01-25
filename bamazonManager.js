@@ -37,9 +37,9 @@ function start() {
                 case 'Products for Sale':
                     ViewProducts();
                     break;
-                case 'View Low Inventory':
-                    ViewLowInventory();
-                    break;
+                // case 'View Low Inventory':
+                //     ViewLowInventory();
+                //     break;
                 case 'Add to Inventory':
                     AddInventory();
                     break;
