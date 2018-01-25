@@ -10,6 +10,7 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
         * SHOP
         * LEAVE
 
+
         ![bamazonCustomer](/screenshots/screenshot_65.png)
         Format: ![Alt Text](url)
 
