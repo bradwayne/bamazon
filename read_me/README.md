@@ -14,4 +14,4 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
         b) LEAVE
 
 2) If you chose to 'SHOP' an item number, department, product and price will all be provided to you for each product available.
-        ![Bamazon Customer](/read_me/Screenshot (65).png)
+        ![bamazonCustomer](/read_me/Screenshot (65).png)
