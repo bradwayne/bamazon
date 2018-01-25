@@ -16,7 +16,7 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
 
 
     * If you chose to 'SHOP' an item number, department, product and price will all be provided to you for each product available.
-      
+
         ![bamazonCustomer](/read_me/Screenshot (67).png)
         Format: ![Alt Text](url)
 
@@ -51,7 +51,7 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
     * Products for Sale
         * this will display everything that Bamazon have in inventory. It will be broken down by item number, product name, department name and stock quantity.
 
-        ![bamazonCustomer](/Screenshot (75).png)
+        ![bamazonCustomer](/read_me/Screenshot (75).png)
         Format: ![Alt Text](url)
 
 
@@ -61,14 +61,14 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
     * Add to Inventory
         * this will allow you to select any inventroy item and add the the stock quantity.
 
-        ![bamazonCustomer](/Screenshot (78).png)
+        ![bamazonCustomer](/read_me/Screenshot (78).png)
         Format: ![Alt Text](url)
 
 
     * Add New Product
         * this will allow you to add a new product and specify what department it will be located in, the quantity that you will be ordering and the price you will be charging. It will then assign an item id for the new product. 
 
-        ![bamazonCustomer](/Screenshot (84).png)
+        ![bamazonCustomer](/read_me/Screenshot (84).png)
         Format: ![Alt Text](url)
 
 
