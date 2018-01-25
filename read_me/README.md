@@ -52,6 +52,7 @@ Bamazon is a node app that will take in orders from customers and deplete stock 
         * this will display everything that Bamazon have in inventory. It will be broken down by item number, product name, department name and stock quantity.
 
         ![bamazonCustomer](/read_me/Screenshot (75).png)
+
         Format: ![Alt Text](url)
 
 
